@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "27198710115",
+    "firebase_url": "https://dimofinf-2bbac.firebaseio.com",
+    "project_id": "dimofinf-2bbac",
+    "storage_bucket": "dimofinf-2bbac.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:27198710115:android:cf7795ae79e6c1a2523356",
+        "android_client_info": {
+          "package_name": "com.dimofinf.dimofinf.dimofinf"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "27198710115-k005psabe4ngg97sfckmfsj32jm7qafi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwMnbEdpwVPRUmIvKm223-CqqOC5SQ0s8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "27198710115-k005psabe4ngg97sfckmfsj32jm7qafi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
